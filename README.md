@@ -4,4 +4,4 @@ This project explores the use of machine learning models to predict the presence
 
 For a detailed explanation, please refer to the attached PDF report included in this repository.
 
-Note: This project does not provide medical advice.
+Note: This project does not provide medical advice
